@@ -1,7 +1,5 @@
 # ID
 
-Script Crack For Facebook
-
 # instal bahan
 
 $ pkg update 
